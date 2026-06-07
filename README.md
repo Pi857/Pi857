@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Pi857
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on app/game development
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: "404"
+# Hi, I'm Vasanth 👋
 
-<!---
-Pi857/Pi857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE Student at Hyderabad Institute of Technology & Management
+🤖 Aspiring AI/ML Engineer
+📊 Interested in Machine Learning, Data Analysis, and Predictive Modeling
+📚 Currently exploring ML pipelines, feature engineering, and AI applications
+🏆 HackerRank Campus Crew Lead
+🚀 Working on ML projects using Scikit-learn, XGBoost, and Python
+
+## Tech Stack
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* XGBoost
+* Jupyter Notebook
+
+## Featured Projects
+
+* Rossmann Store Sales Prediction
+* NYC Taxi Fare Prediction
+* Australia Rainfall Prediction
+* Clustering & PCA Projects
